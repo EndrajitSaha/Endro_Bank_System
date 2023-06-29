@@ -1,0 +1,20 @@
+.withdraw-list,
+.deposit-list {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-around;
+  margin: 0.5rem;
+  padding: 0.5rem;
+}
+
+.depo-para,
+.withdraw-para {
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+.depo-para {
+  color: rgb(31, 138, 31);
+}
+.withdraw-para {
+  color: rgb(197, 16, 16);
+}
