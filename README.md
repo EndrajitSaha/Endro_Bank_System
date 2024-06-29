@@ -1,7 +1,7 @@
-![Logo](Bank_logo.png)
-
-**Endro Bank System**
-
+<p align="center">
+  <img src="Bank_logo.png" alt="Logo">
+  <h1>Endro Bank System</h1>
+</p>
 
 This project, developed as part of a university assignment, showcases a dynamic and user-friendly banking system built using HTML, CSS, and JavaScript. It demonstrates my proficiency in front-end web development and the ability to design and implement interactive web applications.
 
@@ -31,8 +31,6 @@ This project, developed as part of a university assignment, showcases a dynamic 
 * Implement server-side functionality (e.g., Node.js, Python/Django, etc.) for secure data storage and user authentication.
 * Integrate with real-time database solutions (e.g., Firebase, MongoDB) to persist user data and transactions.
 * Enhance security measures to protect user information and prevent unauthorized access.
-* Add additional banking features for a more comprehensive experience. (e.g., bill payments, investment options)
-* Develop responsive design for optimal viewing across different screen sizes.
 
 **Author**
 
